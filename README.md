@@ -2,7 +2,7 @@
 
 ## Summary
 <p>Practice project of GADS 20.</p>
-<p><b>Made in the last day.</b></p>
+<p><b>Made in the last two days.</b></p>
 
 ## Screenshots
 <table style="width:100%">
