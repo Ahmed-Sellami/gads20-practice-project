@@ -11,6 +11,8 @@
     <td><img src="images/learners.jpg"/></td> 
     <td><img src="images/skill.jpg"/></td>
     <td><img src="images/submit.jpg"/></td>
+  </tr>
+  <tr>
     <td><img src="images/ask.jpg"/></td>
     <td><img src="images/success.jpg"/></td>
     <td><img src="images/failed.jpg"/></td>
