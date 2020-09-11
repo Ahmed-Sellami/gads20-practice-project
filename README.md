@@ -1,8 +1,8 @@
 # gads20-practice-project
 
 ## Summary
-Practice project of GADS 20.
-Made in the last day.
+<p>Practice project of GADS 20.</p>
+<p>Made in the last day.</p>
 
 ## Screenshots
 <table style="width:100%">
