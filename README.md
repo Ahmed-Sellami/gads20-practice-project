@@ -1,4 +1,5 @@
 # gads20-practice-project
+A leaderboard of the top 20 of the most learners with learning hours and with skill IQ. The second activity allow you to submit your project to the GADS 20 google form.
 
 ## Summary
 <p>Practice project of GADS 20.</p>
